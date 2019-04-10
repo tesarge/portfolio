@@ -1,0 +1,45 @@
+html{
+  background-color: #252525;
+  scroll-behavior: smooth;
+}
+
+.jumbotron{
+  background-image: url(https://images.unsplash.com/photo-1526289034009-0240ddb68ce3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80);
+  height: 100vh;
+}
+
+span{
+  text-decoration: underline;
+}
+
+h1{
+  color: #f4f3f3;
+  font-family: "Cabin", sans-serif;
+  font-size: 6em;
+  padding-top: 20%;
+}
+
+p{
+  color: #dfdfdf;
+  font-family: "Raleway", sans-serif;
+  font-size: 2em;
+}
+.buttons{
+  padding-left: 20%;
+}
+
+.btn{
+  width: auto;
+  height: auto;
+  font-family: "Raleway", sans-serif;
+}
+
+.panel > h1{
+  color: #ffbb33;
+}
+
+.panel{
+  background-color: #252525;
+  height: 100vh;
+  padding: 15px;
+}
